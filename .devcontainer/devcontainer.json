@@ -1,20 +1,21 @@
 {
-  "name": "Python (pytest minimal)",
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",  // 경량 Python 기본 이미지 사용
+  "name": "Python (latest + pytest + unittest)",
+  "image": "mcr.microsoft.com/devcontainers/python:latest",   // 최신 Python 버전 사용
 
   "features": {
-    "ghcr.io/hspaans/devcontainer-features/pytest:2": {}
+    // pytest Feature의 최신 버전 태그 사용
+    "ghcr.io/hspaans/devcontainer-features/pytest:latest": {}
   },
 
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-python.python",
-        "ms-python.vscode-python-envs"
+        "ms-python.python",               // 최신 Python 확장
+        "ms-python.vscode-python-envs"    // 최신 Python 환경 확장
       ]
     }
-  }
+  },
 
-  // 필요시 테스트 실행 후 환경 확인
-  // "postCreateCommand": "pytest --version"
+  // 컨테이너 생성 직후 최신 상태로 패키지 업데이트
+  "postCreateCommand": "pip install --upgrade pip setuptools wheel && pytest --version && python -m unittest --help"
 }
