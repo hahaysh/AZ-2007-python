@@ -10,8 +10,10 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-python.python",               // 최신 Python 확장
-        "ms-python.vscode-python-envs"    // 최신 Python 환경 확장
+        "ms-python.python",
+        "ms-python.vscode-python-envs",
+        "GitHub.copilot",
+        "GitHub.copilot-chat"
       ]
     }
   },
