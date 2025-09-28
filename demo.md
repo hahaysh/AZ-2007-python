@@ -29,3 +29,8 @@ https://learn.microsoft.com/en-us/training/modules/github-copilot-across-environ
 # MCP를 GitHub Copilot과 통합 - Mona
 (Integrate MCP with GitHub Copilot)
 https://github.com/skills/integrate-mcp-with-copilot
+
+
+## GitHub Mona봇 실습모음
+(GitHub Skills)
+https://github.com/skills
