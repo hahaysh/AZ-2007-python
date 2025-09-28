@@ -1,11 +1,6 @@
 {
   "name": "Python (latest + pytest + unittest)",
-  "image": "mcr.microsoft.com/devcontainers/python:latest",   // 최신 Python 버전 사용
-
-  "features": {
-    // pytest Feature의 최신 버전 태그 사용
-    "ghcr.io/hspaans/devcontainer-features/pytest:latest": {}
-  },
+  "image": "mcr.microsoft.com/devcontainers/python:latest",
 
   "customizations": {
     "vscode": {
