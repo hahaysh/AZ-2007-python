@@ -14,7 +14,7 @@
 - https://github.com/skills/getting-started-with-github-copilot
 
 ## GitHub Copilot을 사용하여 단위 테스트 개발 - Codespace
-- https://github.com/hahaysh/AZ-2007  --> folk
+- https://github.com/hahaysh/AZ-2007-python  --> folk
 - code --> codespace 실행(시간걸림)
 - codespace 터미널에서 demo 브랜치 생성. (demo브랜치에서 작업)
     git switch -c demo
