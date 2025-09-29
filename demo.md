@@ -1,17 +1,17 @@
 ## 실습환경
-https://microsoftlearning.github.io/mslearn-github-copilot-dev/Instructions/Labs/LAB_AK_00_configure_lab_environment_py.html
-https://microsoftlearning.github.io/mslearn-github-copilot-dev/Instructions/Labs/LAB_AK_00_enable_github_copilot_in_visual_studio_code.html
+- https://microsoftlearning.github.io/mslearn-github-copilot-dev/Instructions/Labs/LAB_AK_00_configure_lab_environment_py.html
+- https://microsoftlearning.github.io/mslearn-github-copilot-dev/Instructions/Labs/LAB_AK_00_enable_github_copilot_in_visual_studio_code.html
 
 ## GitHub Copilot 설정
-https://docs.github.com/copilot/setting-up-github-copilot/setting-up-github-copilot-for-yourself
+- https://docs.github.com/copilot/setting-up-github-copilot/setting-up-github-copilot-for-yourself
 
 ## GitHub Codespaces 및 Visual Studio Code를 사용한 코드 - Mona
 - (Code with GitHub Codespaces and Visual Studio Code)
-https://github.com/skills-dev/code-with-codespaces
+- https://github.com/skills-dev/code-with-codespaces
 
 ## GitHub Copilot 시작 - Mona
 - (Getting Started with GitHub Copilot)
-https://github.com/skills/getting-started-with-github-copilot
+- https://github.com/skills/getting-started-with-github-copilot
 
 ## GitHub Copilot을 사용하여 단위 테스트 개발 - Codespace
 - https://github.com/hahaysh/AZ-2007  --> folk
