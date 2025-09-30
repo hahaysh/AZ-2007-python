@@ -12,7 +12,5 @@
       ]
     }
   },
-
-  // 컨테이너 생성 직후 최신 상태로 패키지 업데이트
   "postCreateCommand": "pip install --upgrade pip setuptools wheel && pytest --version && python -m unittest --help"
 }
