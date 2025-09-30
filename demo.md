@@ -31,6 +31,6 @@
 - https://github.com/skills/integrate-mcp-with-copilot
 
 
-## GitHub Mona봇 실습모음
+## (추가) 그외 GitHub Mona봇 실습모음
 - (GitHub Skills)
 - https://github.com/skills
