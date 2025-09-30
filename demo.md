@@ -17,7 +17,9 @@
 - https://github.com/hahaysh/AZ-2007-python  --> folk
 - code --> codespace 실행(시간걸림)
 - codespace 터미널에서 demo 브랜치 생성. (demo브랜치에서 작업)
-    git switch -c demo
+```
+  git switch -c demo
+```
 - 왼쪽창엔 codespace띄우고, 오른쪽창에는 아래 실습링크띄우기
   (Develop unit tests using GitHub Copilot)
 - https://microsoftlearning.github.io/mslearn-github-copilot-dev/Instructions/Labs/LAB_AK_04_develop_unit_tests_pytest.html
